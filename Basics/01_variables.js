@@ -6,7 +6,7 @@ console.table([firstVar, secondVar, thirdVar]);
 
 firstVar = "This is first var 2nd time";
 secondVar = "This is second var 2nd time";
-//=== you can not redeclare const ===
+//=== you can not re-declare & re-asign const ===
 // thirdVar = "This is third var 2nd time";
 
 console.table([firstVar, secondVar, thirdVar]);
